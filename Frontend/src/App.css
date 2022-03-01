@@ -1,9 +1,10 @@
 .mainContainer {
+  background-color: rgb(0, 0, 0);
   display: flex;
   justify-content: center;
   width: 100%;
   margin-top: 64px;
-  color:black;
+  color:rgb(105, 84, 84);
 }
 
 .dataContainer {
